@@ -38,3 +38,24 @@
    38  git clone https://github.com/kristina-abobutsoae/HW_10.git
    39  cd HW_10
    40  history > command_list.csv
+   41  git add command_list.csv
+   42  git commit -m "Added git clone command to command_list.csv"
+   43  git push origin main
+   44  pwd
+   45  cd /Downloads/homework_10_git/QA_HW10/HW_10/HW_10
+   46  [200~nano command_list.csv
+   47  nano command_list.csv
+   48  cd Downloads
+   49  cd Download/QA_HW10/HW_10
+   50  cd QA_HW10
+   51  ді
+   52  ls
+   53  cd homework_10_git
+   54  ls
+   55  QA_HW10
+   56  cd QA_HW10
+   57  git clone https://github.com/kristina-abobutsoae/HW_10.git
+   58  rm -rf HW_10
+   59  git clone https://github.com/kristina-abobutsoae/HW_10.git
+   60  cd HW_10
+   61  history > command_list.csv
