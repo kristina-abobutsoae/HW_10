@@ -23,3 +23,18 @@
    23  git merge develop
    24  git log
    25  history > command_list.csv
+   26  git add .
+   27  git commit -m "Adding command_list.csv"
+   28  git push origin main
+   29  pwd
+   30  cd [200~/c/Users/49157/Downloads/homework_10_git
+   31  git clone https://github.com/kristina-abobutsoae/HW_10.git
+   32  cd HW_10
+   33  history > command_list.csv
+   34  git commit -m "Added git clone command to command_list.csv"
+   35  git push origin main
+   36  [200~git clone https://github.com/kristina-abobutsoae/HW_10.git
+   37  cd HW_10
+   38  git clone https://github.com/kristina-abobutsoae/HW_10.git
+   39  cd HW_10
+   40  history > command_list.csv
